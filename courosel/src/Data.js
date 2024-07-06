@@ -1,7 +1,7 @@
 const data=[{
     id:1,
     name:"Chirag Paswan",
-    job:"Politiian",
+    job:"Politician",
     image:"https://assets.telegraphindia.com/telegraph/2021/Jun/1624194867_untitled-design-2021-06-20t184348-448.jpg"
 },
 {
